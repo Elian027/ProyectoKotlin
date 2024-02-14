@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.home.HomeFragment">
+
+    <CheckBox
+        android:id="@+id/caja_lunes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lunes" />
+
+    <CheckBox
+        android:id="@+id/caja_martes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Martes" />
+
+    <CheckBox
+        android:id="@+id/caja_miercoles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Miércoles" />
+
+    <CheckBox
+        android:id="@+id/caja_jueves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jueves" />
+
+    <CheckBox
+        android:id="@+id/caja_viernes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Viernes" />
+
+    <CheckBox
+        android:id="@+id/caja_sabado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sábado" />
+
+    <CheckBox
+        android:id="@+id/caja_domingo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Domingo" />
+
+    <Button
+        android:id="@+id/guardar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Guardar" />
+
+</LinearLayout>

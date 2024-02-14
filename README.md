@@ -1,1 +1,3 @@
-#Elian Moreira, Pablo Uchuari, Erick Santillan
+# Elian Moreira
+# Pablo Uchuari
+# Erick Santillan

@@ -1,4 +1,4 @@
-# Elian Moreira, # Pablo Uchuari, # Erick Santillan
+# Elian Moreira, Pablo Uchuari, Erick Santillan
 
 # Cálculo de IMC en pestaña dashboard usando EditText
 ![image](https://github.com/Elian027/ProyectoKotlin/assets/117754199/d4441eec-c132-4716-9c15-97a941036566)
